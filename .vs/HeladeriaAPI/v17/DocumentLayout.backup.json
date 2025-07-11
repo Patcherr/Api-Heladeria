@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|c:\\users\\gianl\\onedrive\\documentos\\heladeriaapi\\heladeriaapi\\migrations\\20250711215356_api-finalizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|solutionrelative:heladeriaapi\\migrations\\20250711215356_api-finalizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|c:\\users\\gianl\\onedrive\\documentos\\heladeriaapi\\heladeriaapi\\config\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|solutionrelative:heladeriaapi\\config\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|c:\\users\\gianl\\onedrive\\documentos\\heladeriaapi\\heladeriaapi\\models\\helado\\dto\\createheladodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|solutionrelative:heladeriaapi\\models\\helado\\dto\\createheladodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|c:\\users\\gianl\\onedrive\\documentos\\heladeriaapi\\heladeriaapi\\services\\ingredienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|solutionrelative:heladeriaapi\\services\\ingredienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|c:\\users\\gianl\\onedrive\\documentos\\heladeriaapi\\heladeriaapi\\models\\helado\\dto\\allheladodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|solutionrelative:heladeriaapi\\models\\helado\\dto\\allheladodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|c:\\users\\gianl\\onedrive\\documentos\\heladeriaapi\\heladeriaapi\\services\\heladoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|solutionrelative:heladeriaapi\\services\\heladoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|c:\\users\\gianl\\onedrive\\documentos\\heladeriaapi\\heladeriaapi\\services\\salsaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A909E6C0-0CA4-4494-9FD9-7A52599451E3}|HeladeriaAPI\\HeladeriaAPI.csproj|solutionrelative:heladeriaapi\\services\\salsaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250711215356_Api-finalizada.cs",
+              "DocumentMoniker": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Migrations\\20250711215356_Api-finalizada.cs",
+              "RelativeDocumentMoniker": "HeladeriaAPI\\Migrations\\20250711215356_Api-finalizada.cs",
+              "ToolTip": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Migrations\\20250711215356_Api-finalizada.cs",
+              "RelativeToolTip": "HeladeriaAPI\\Migrations\\20250711215356_Api-finalizada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:53:56.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Config\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HeladeriaAPI\\Config\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Config\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HeladeriaAPI\\Config\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:51:18.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateHeladoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Models\\Helado\\Dto\\CreateHeladoDTO.cs",
+              "RelativeDocumentMoniker": "HeladeriaAPI\\Models\\Helado\\Dto\\CreateHeladoDTO.cs",
+              "ToolTip": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Models\\Helado\\Dto\\CreateHeladoDTO.cs",
+              "RelativeToolTip": "HeladeriaAPI\\Models\\Helado\\Dto\\CreateHeladoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:45:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IngredienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Services\\IngredienteServices.cs",
+              "RelativeDocumentMoniker": "HeladeriaAPI\\Services\\IngredienteServices.cs",
+              "ToolTip": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Services\\IngredienteServices.cs",
+              "RelativeToolTip": "HeladeriaAPI\\Services\\IngredienteServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:45:39.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllHeladoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Models\\Helado\\Dto\\AllHeladoDTO.cs",
+              "RelativeDocumentMoniker": "HeladeriaAPI\\Models\\Helado\\Dto\\AllHeladoDTO.cs",
+              "ToolTip": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Models\\Helado\\Dto\\AllHeladoDTO.cs",
+              "RelativeToolTip": "HeladeriaAPI\\Models\\Helado\\Dto\\AllHeladoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:21:35.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeladoServices.cs",
+              "DocumentMoniker": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Services\\HeladoServices.cs",
+              "RelativeDocumentMoniker": "HeladeriaAPI\\Services\\HeladoServices.cs",
+              "ToolTip": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Services\\HeladoServices.cs",
+              "RelativeToolTip": "HeladeriaAPI\\Services\\HeladoServices.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwE0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:14:20.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalsaServices.cs",
+              "DocumentMoniker": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Services\\SalsaServices.cs",
+              "RelativeDocumentMoniker": "HeladeriaAPI\\Services\\SalsaServices.cs",
+              "ToolTip": "C:\\Users\\gianl\\OneDrive\\Documentos\\HeladeriaAPI\\HeladeriaAPI\\Services\\SalsaServices.cs",
+              "RelativeToolTip": "HeladeriaAPI\\Services\\SalsaServices.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:08:05.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 45,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
